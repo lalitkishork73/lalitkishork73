@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lalitkishork73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m lalitkishor
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on Backend Projects
+- 📫 contact me at lalitkishork73@gmail.com
 
 <!---
 lalitkishork73/lalitkishork73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
