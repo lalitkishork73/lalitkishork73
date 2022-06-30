@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lalitkishor
+- 👋 Hi, I’m lalit
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Backend Projects
