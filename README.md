@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/lalitkishor-kanojiya-2a5592b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/lalitkishork373/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/lalitkishork"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <!-- <a href = "https://www.instagram.com/lalitkishork33/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <a href = "https://www.youtube.com/channel/UCXhAMO4lu0xJml_8WaG8zDA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
