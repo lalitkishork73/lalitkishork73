@@ -50,20 +50,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitkishork73&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkishork73&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkishork73&theme=react&hide_border=true&background=0D1117" />
-</p>
-
-
----
-
 ## 💡 Current Focus
 
 - 🧩 Advanced Backend Architecture & System Design  
