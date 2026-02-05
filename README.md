@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React+%7C+Node+%7C+TypeScript+Python;Building+Scalable+Web+Systems;Passionate+About+Clean+Architecture&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React+%7C+Node+%7C+TypeScript+%7C+Python;Building+Scalable+Web+Systems;Passionate+About+Clean+Architecture&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&size=22">
   </a>
 </p>
 
