@@ -49,6 +49,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,13 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkishork73&theme=react&hide_border=true&background=0D1117" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=lalitkishork73&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&hide_border=true" />
-</p>
 
 ---
 
