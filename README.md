@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React+%7C+Node+%7C+TypeScript;Building+Scalable+Web+Systems;Passionate+About+Clean+Architecture&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React+%7C+Node+%7C+TypeScript+Python;Building+Scalable+Web+Systems;Passionate+About+Clean+Architecture&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&size=22">
   </a>
 </p>
 
@@ -16,8 +16,9 @@
 💼 Full Stack Developer with **2+ years of production experience**  
 ⚡ Specialized in **high-performance React & Node.js applications**  
 🔐 Strong background in **authentication, RBAC, and secure APIs**  
-📈 Passionate about **system design, optimization, and scalable architecture**  
-🤖 Exploring **AI integrations and developer productivity tools**
+🤖 Building **LLM-powered features using Python and FastAPI**  
+📈 Passionate about **system design, performance optimisation, and scalable architecture**
+**AI integrations and developer productivity tools**
 
 ---
 
@@ -34,8 +35,9 @@
 ## 🧠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git,python,fastapi" />
 </p>
+
 
 ---
 
@@ -43,19 +45,31 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **AI PDF Learning Assistant** | RAG-based document Q&A system with low-latency responses | Node.js, React, AI APIs |
+| **AI PDF Learning Assistant** | RAG-based document Q&A system with LLM integration and low-latency responses | Python, FastAPI, LLM APIs, React |
 | **Rent Management System** | Full-stack rental platform with monitoring & scalable DB design | PostgreSQL, Prisma, Express |
-| **Production Dashboard Systems** | Enterprise dashboards with RBAC & performance optimization | React, Node.js, MongoDB |
+| **Production Dashboard Systems** | Enterprise dashboards with RBAC, optimised APIs, and performance tuning | React, Node.js, MongoDB |
+
 
 ---
 
 
 ## 💡 Current Focus
 
+- 🤖 LLM integrations and AI-powered application features  
 - 🧩 Advanced Backend Architecture & System Design  
 - ⚙️ Performance Engineering (Frontend + Backend)  
 - ☁️ Cloud Deployments & DevOps Fundamentals  
-- 🤖 AI-assisted application features  
+
+
+---
+
+## 🏆 Professional Highlights
+
+✔ Built production dashboards with RBAC authentication  
+✔ Improved API performance by up to 40% using optimised queries  
+✔ Reduced frontend load time by ~50% with caching & smart data fetching  
+✔ Integrated secure payment systems (subscriptions & billing flows)  
+✔ Developed LLM-powered backend services using Python and FastAPI
 
 ---
 
